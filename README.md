@@ -1,5 +1,7 @@
 # Dash-Redux
 
+<img src="https://github.com/YagoLopes/dashredux/blob/master/.github/mokup.png" alt="Img"/>
+
 Example of configuring a reaction project using redux saga
 
 ## Get started
